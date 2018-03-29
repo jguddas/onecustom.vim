@@ -3,6 +3,8 @@ onecustom.vim
 
 A Neovim color scheme for gui and true color terminals.
 
+![](https://raw.githubusercontent.com/jguddas/onecustom.vim/master/preview.png)
+
 Usage
 -----
 
