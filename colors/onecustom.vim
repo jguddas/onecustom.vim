@@ -1,5 +1,8 @@
 let g:colors_name = "onecustom"
 
+highlight ALEErrorSign                  guifg=#E06C75 guibg=#222222 guisp=NONE gui=NONE
+highlight ALEInfoSign                   guifg=#C678DD guibg=#222222 guisp=NONE gui=NONE
+highlight ALEWarningSign                guifg=#E5C07B guibg=#222222 guisp=NONE gui=NONE
 highlight Boolean                       guifg=#D19A66 guibg=NONE    guisp=NONE gui=NONE
 highlight Character                     guifg=#98C379 guibg=NONE    guisp=NONE gui=NONE
 highlight ColorColumn                   guifg=NONE    guibg=#222222 guisp=NONE gui=NONE
