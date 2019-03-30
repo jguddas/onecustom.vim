@@ -30,6 +30,10 @@ highlight Float                         guifg=#D19A66 guibg=NONE    guisp=NONE g
 highlight FoldColumn                    guifg=NONE    guibg=NONE    guisp=NONE gui=NONE
 highlight Folded                        guifg=#5C6370 guibg=NONE    guisp=NONE gui=NONE
 highlight Function                      guifg=#61AFEF guibg=NONE    guisp=NONE gui=NONE
+highlight GitGutterAdd                  guifg=#98C379 guibg=#222222 guisp=NONE gui=NONE
+highlight GitGutterChange               guifg=#E5C07B guibg=#222222 guisp=NONE gui=NONE
+highlight GitGutterChangeDelete         guifg=#E5C07B guibg=#222222 guisp=NONE gui=NONE
+highlight GitGutterDelete               guifg=#E06C75 guibg=#222222 guisp=NONE gui=NONE
 highlight Identifier                    guifg=#E06C75 guibg=NONE    guisp=NONE gui=NONE
 highlight Ignore                        guifg=NONE    guibg=NONE    guisp=NONE gui=NONE
 highlight IncSearch                     guifg=#E5C07B guibg=#5C6370 guisp=NONE gui=NONE
