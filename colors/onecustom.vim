@@ -337,3 +337,11 @@ highlight clear ALEInfo
 highlight link ALEError SpellBad
 highlight link ALEWarning SpellCap
 highlight link ALEInfo ALEWarning
+
+highlight link jsxTag xmlTag
+highlight link jsxTagName xmlTagName
+highlight link jsxComponentName xmlTagName
+highlight link jsxAttrib xmlAttrib
+highlight link jsxString xmlString
+highlight link jsxCloseString xmlEndTag
+highlight link jsxOpenPunct xmlEndTag
