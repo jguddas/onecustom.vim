@@ -330,3 +330,10 @@ if has('nvim')
   let g:terminal_color_14 = "#56b6c2"
   let g:terminal_color_15 = "#ffffff"
 endif
+
+highlight clear ALEError
+highlight clear ALEWarning
+highlight clear ALEInfo
+highlight link ALEError SpellBad
+highlight link ALEWarning SpellCap
+highlight link ALEInfo ALEWarning
