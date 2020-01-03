@@ -23,7 +23,7 @@ highlight Comment                       guifg=#5C6370 guibg=NONE    guisp=NONE g
 highlight Conceal                       guifg=NONE    guibg=NONE    guisp=NONE gui=NONE
 highlight Conditional                   guifg=#C678DD guibg=NONE    guisp=NONE gui=NONE
 highlight Constant                      guifg=#56B6C2 guibg=NONE    guisp=NONE gui=NONE
-highlight Cursor                        guifg=#17181A guibg=#61AFEF guisp=NONE gui=NONE
+highlight Cursor                        guifg=#17181A guibg=#ABB2BF guisp=NONE gui=NONE
 highlight CursorColumn                  guifg=NONE    guibg=#222222 guisp=NONE gui=NONE
 highlight CursorIM                      guifg=NONE    guibg=NONE    guisp=NONE gui=NONE
 highlight CursorLine                    guifg=NONE    guibg=#222222 guisp=NONE gui=NONE
